@@ -1,6 +1,13 @@
 ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
 
+## Principales Objetivos de Aprendizaje para esta Clase
+
+- Conocer el concepto de una Función
+- Comprender el concepto de variables locales y globales
+- Comprender el concepto de recursividad
+- Conocer el concepto de parámetros y pasaje de parámetros
+
 ## Funciones
 
 Las funciones son una secuencia de comandos que ejecutan una sección de código. En Python las funciones se definen usando la palabra reservada **def** y luego el nombre de la función con paréntesis y dos puntos que indican que lo que sigue son las sentencias, eventualmente una función debe retornar un valor, para esto se usa la palabra reservada **return**.
@@ -267,7 +274,4 @@ La función Lambda es una forma conveniente de crear una función en una sola l�
 12
 ``` 
 
-
-
-* Si tienes dudas sobre este tema, puedes consultarlas en el canal **#m7_funciones** de Slack
-
+* Si tienes dudas sobre este tema, puedes consultarlas en el canal **#m07_funciones** de Slack

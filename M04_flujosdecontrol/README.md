@@ -1,5 +1,11 @@
 ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
+## Principales Objetivos de Aprendizaje para esta Clase
+
+- Conocer el concepto de los Flujos de Control
+- Conocer cómo se usan los Condicionales en Programación
+- Conocer el concepto de Ciclos Iterativos
+
 ## Flujos de Control
 
 ### Condicionales
@@ -138,6 +144,4 @@ o
 n
 ```
 
-
-* Si tienes dudas sobre este tema, puedes consultarlas en el canal **#m4_flujosdecontrol** en Slack
-
+* Si tienes dudas sobre este tema, puedes consultarlas en el canal **#m04_flujosdecontrol** de Slack

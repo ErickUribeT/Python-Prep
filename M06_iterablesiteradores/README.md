@@ -1,6 +1,10 @@
 ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
 
+## Principales Objetivos de Aprendizaje para esta Clase
+
+- Conocer los conceptos de Iteradores e Iterables
+
 ## Iteradores e Iterables
 
 Permiten iterar colecciones de datos que sean iterables. Si tenemos una determinada colección de datos, en este caso una lista con varios valores, y queremos mostrar sus valores uno a uno por pantalla podría resolverse de la siguiente manera con un while.
@@ -174,8 +178,4 @@ Por lo tanto la expresión sólo se aplicará al elemento si se cumple la condic
 
 Lo que hace el código anterior es iterar cada letra de la frase, y si es una r, se añade a la lista. De esta manera el resultado es una lista con tantas letras r como la frase original tiene, y podemos calcular las veces que se repite con len().
 
-
-
-
-* Si tienes dudas sobre este tema, puedes consultarlas en el canal **#m6_iterablesiteradores** de Slack
-
+* Si tienes dudas sobre este tema, puedes consultarlas en el canal **#m06_iterablesiteradores** de Slack

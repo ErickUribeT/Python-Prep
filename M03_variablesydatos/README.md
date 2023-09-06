@@ -1,6 +1,12 @@
 ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
 
+## Principales Objetivos de Aprendizaje para esta Clase
+
+- Conocer el concepto de Variables y Constantes
+- Conocer el concepto de Tipos de Datos
+
+
 ## Variables
 
 Una variable es un espacio de memoria donde guardamos un dato, ese espacio de memoria a la vez recibe un nombre y esto conforma la estructura de datos más simple que podemos encontrar.
@@ -215,5 +221,9 @@ str(): construye una cadena a partir de una amplia variedad de tipos de datos, i
 2
 ```
 
-Si tienes dudas sobre este tema, puedes consultarlas en el canal **#m3_variablesydatos** de Slack
+## Recursos adicionales
 
+* [Cheat Lists] (https://intellipaat.com/blog/tutorial/python-tutorial/data-structures-with-python-cheat-sheet/?US)
+
+
+* Si tienes dudas sobre este tema, puedes consultarlas en el canal **#m03_variablesydatos** de Slack

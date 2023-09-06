@@ -1,5 +1,12 @@
 ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
+## Principales Objetivos de Aprendizaje para esta Clase
+
+- Comprender el concepto de Porgramación Orientada a Objetos
+- Comprender los conceptos de Clases y Objetos
+- Conocer el concepto de Herencia
+- Comprender los conceptos de Librerías y Módulos
+
 ## Clases y objetos (POO)
 
 El alto grado de planificación y previsión que requiere la programación es contrario a la propia realidad. El hombre aprende y crea a través de la experimentación, no de la planeación. La Orientación a Objetos (POO) brinda estos métodos de experimentación, y logra que los lenguajes sean de más alto nivel, es decir, más cercanos a como los humanos pensamos el mundo. Los seres humanos, vemos la realidad como objetos que se interrelacionan y realizan acciones, y esto, es lo que se intenta emular en la POO.
@@ -501,6 +508,4 @@ Si queremos que el módulo sea recargado, tenemos que ser explícitos, haciendo 
 >>> importlib.reload(mimodulo)
 ``` 
 
-
-* Si tienes dudas sobre este tema, puedes consultarlas en el canal **#m8_clasesyoop** de Slack
-
+* Si tienes dudas sobre este tema, puedes consultarlas en el canal **#m08_clasesyoop** de Slack
